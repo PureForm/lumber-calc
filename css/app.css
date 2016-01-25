@@ -1,0 +1,51 @@
+html {
+	font: 12px sans-serif;
+}
+
+h2 {
+	font-size: 18px;
+	margin-bottom: 1em;
+}
+
+#list {
+	margin: 10px 15px;
+}
+
+label {
+	margin-right: 0.5em;
+}
+
+input,
+select {
+	padding: 3px 4px;
+}
+
+input.title,
+input.quantity,
+input.depth {
+	width: 100px;
+}
+
+table th {
+	text-align: left;
+}
+
+table th,
+table td {
+	padding: 4px 6px;
+}
+
+#inputs,
+#results {
+	float: left;
+}
+
+#results {
+	margin-left: 10px;
+}
+
+
+#results h3 {
+	font-weight: bold;
+    margin: 4px;
+}
